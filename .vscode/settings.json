@@ -41,4 +41,5 @@
             "connectionTimeout": 15
         }
     ],
+    "java.compile.nullAnalysis.mode": "disabled",
 }
